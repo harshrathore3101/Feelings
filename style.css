@@ -1,3 +1,13 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(./wofffonts/steelfish\ bd.woff);
+  src: url(./wofffonts/steelfish\ bd\ it.woff);
+  src: url(./wofffonts/steelfish\ eb.woff);
+  src: url(./wofffonts/steelfish\ eb\ it.woff);
+  src: url(./wofffonts/steelfish\ rg\ it.woff);
+  src: url(./wofffonts/Gilroy-Regular.woff);
+}
+
 * {
   margin: 0;
   padding: 0%;
